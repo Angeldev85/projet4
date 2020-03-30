@@ -1,0 +1,3 @@
+<?php
+
+$listArticles = Articles::getLastArticles();
